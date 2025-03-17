@@ -25,10 +25,11 @@ This project is designed for **fairness, transparency, and accessibility**. Whet
 
 ## **Contract Address**
 
-0xe9d9a78c487e3000f22488e2a3d1c7290b25b309
+0xce8e1c67ec5792659d970d610692d5d77b8e24a3
 
 
-![image](https://github.com/user-attachments/assets/cfec4a86-8730-4c73-b5d7-1add49807eba)
+![image](https://github.com/user-attachments/assets/67a5a307-0eaf-4c8f-992b-e8b664f77b76)
+
   
 Ready to test your luck? Enter the Daily, Weekly, or Monthly lottery, and let the blockchain decide your fate!
  
